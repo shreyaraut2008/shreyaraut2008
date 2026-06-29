@@ -23,7 +23,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
 <p align="right">
-<img src="https://raw.githubusercontent.com/shreyaraut2008/shreyaraut2008/main/assets/avatar-animated.svg" width="340" alt="Animated avatar"/>
+<img src="https://res.cloudinary.com/daqfdqebj/image/upload/v1782718510/Screenshot_2026-06-29_130445_ai7nuk.png" width="340" alt="Animated avatar"/>
 <!--
   ═══════════════════════════════════════════════════════════
   AVATAR SETUP — do this once:
